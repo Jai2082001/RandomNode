@@ -17,10 +17,3 @@ sequelize.sync().then((result)=>{
 }).catch((err)=>{
     console.log(err);
 })
-
-
-app.listen(PORT, (req, res)=>{
-    console.log('SERVER WORKING ON' + PORT);
-})
-
-
