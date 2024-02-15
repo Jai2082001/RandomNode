@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/81b31826-bd0f-449c-9c1c-b135e1103caa/resourceGroups/azurewebappnew/providers/Microsoft.Web/sites/azurewebappnewnode",
+    "appService.deploySubpath": "Project1"
+}
